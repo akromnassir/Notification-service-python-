@@ -1,0 +1,4 @@
+python-dotenv
+sendgrid==6.3.1
+twilio
+tweepy
